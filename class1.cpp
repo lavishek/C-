@@ -1,3 +1,4 @@
+//Area of rectangle
 #include <iostream>
 
 using namespace std;
@@ -22,3 +23,4 @@ R1.display();
 return 0;
 
 }
+
